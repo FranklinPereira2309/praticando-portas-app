@@ -1,0 +1,23 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formulario > div {
+    display: flex;
+}
+
+.link {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+    cursor: pointer;
+    flex:1; 
+    margin:0;
+    font-size: 3rem;
+}

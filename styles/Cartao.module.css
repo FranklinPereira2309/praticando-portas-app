@@ -1,0 +1,12 @@
+.cartao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin: 3px;
+    padding: 10px;
+
+}
+

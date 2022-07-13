@@ -1,0 +1,27 @@
+.jogo {
+    display: flex;
+    flex-direction: column;
+}
+
+.portas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+
+}
+
+.botao button {
+    background-color: #c0392c;
+    margin-top: 40px;
+    font-size: 2rem;
+    border: none;
+    padding: 10px 25px;
+    cursor: pointer;
+    color: #fff;
+}
